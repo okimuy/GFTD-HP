@@ -1,0 +1,38 @@
+ul{
+    float: right;
+    list-style: none;
+    display: flex;
+}
+.top-banner{
+    margin: 30px;
+    padding-top: 120px;
+    font-size: 25px;
+}
+.paragraph{
+ text-align: center;
+ margin: 100px 0px 150px 0px;
+}
+table{
+    border: 1px solid #ddd;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    height:60px;
+    line-height:60px;
+  }
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+.logo{
+    background: #cccccc;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    background-color: lightgray;
+    
+   
+}
